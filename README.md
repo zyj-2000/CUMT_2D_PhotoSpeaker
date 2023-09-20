@@ -1,4 +1,4 @@
-### Usage for CUMT_2D_PhotoSpeaker🚀🚀🚀
+## Usage for CUMT_2D_PhotoSpeaker🚀🚀🚀
 
 We have tested the image in Ubuntu 18.04, and the docker image run successfully.
 
@@ -18,7 +18,7 @@ We recommend you use the VScode (installed with extensions such as Remote-SSH, [
 
 Here are **two** methods provided to get the docker image. (**The link will be added soon!**)
 
-## Related Work☕☕☕
+#### Related Work☕☕☕
 
 **FININSHED LIST** 🌟🌟🌟
 
@@ -36,4 +36,14 @@ Here are **two** methods provided to get the docker image. (**The link will be a
 |  10  | 语音驱动 |           SadTalker            |
 |  11  | 角色换装 |           VITION-HD            |
 
+## Citation 😸😸😸
+If you find our paper useful, please cite our work as:
+```
+@inproceedings{zhou2023an,
+  title={An Implementation of Multimodal Fusion System for Intelligent Digital Human Generation},
+  author={Zhou, Yingjie and Chen, Yaodong and Bi, Kaiyue and Xiong, Lian and Liu, Hui},
+  booktitle={National Industrial Software Congress (NISC)},
+  year={2023},
+}
+```
 
