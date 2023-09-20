@@ -4,7 +4,7 @@ We have tested the image in Ubuntu 18.04, and the docker image run successfully.
 
 If you have any problems during the test, please email to aokzyj@126.com/zyj2000@cumt.edu.cn/zyj2000@sjtu.edu.cn
 
-![avatar](framework.png)
+![avatar](framework_v1.png)
 
 ---------------------
 
