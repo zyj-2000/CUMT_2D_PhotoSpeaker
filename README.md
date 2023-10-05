@@ -165,7 +165,7 @@ https://huggingface.co/THUDM/chatglm-6b/tree/main
 sudo docker cp <folder/to/models/in/host> test5:/code
 ```
 
-## Credits 🌟🌟🌟
+## Citations 🌟🌟🌟
 
 | 序号 |  Module  |         Related Works          |
 | :--: | :------: | :----------------------------: |
