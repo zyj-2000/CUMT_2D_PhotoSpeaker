@@ -171,17 +171,15 @@ sudo docker cp <folder/to/models/in/host> test5:/code
 
 | 序号 |  Module  |         Related Works          |
 | :--: | :------: | :----------------------------: |
-|  1   | 交互模块 |           ChatGLM 6B           |
+|  1   | 交互模块 |           [ChatGLM 6B](https://github.com/THUDM/ChatGLM-6B)          |
 |  2   | 文语转换 |            espeaker            |
-|  3   | 语音克隆 |          Mockingbird           |
-|  4   | 特征驱动 |      LiveSpeech Portraits      |
-|  5   | 动作迁移 | Thin-Plate-Spline-Motion-Model |
-|  6   | 超分辨率 |           BasicVSR++           |
-|  7   | 质量评价 |              VSFA              |
-|  8   | 卡通效果 |            DCT-Net             |
-|  9   | 时间推移 |              SAM               |
-|  10  | 语音驱动 |           SadTalker            |
-|  11  | 角色换装 |           VITION-HD            |
+|  3   | 语音克隆 |          [Mockingbird](https://github.com/babysor/MockingBird)           |
+|  4   | 超分辨率 |           [BasicVSR++](https://github.com/ckkelvinchan/BasicVSR_PlusPlus)           |
+|  5   | 质量评价 |              [VSFA](https://github.com/lidq92/VSFA)              |
+|  6   | 卡通效果 |            [DCT-Net](https://github.com/menyifang/DCT-Net)             |
+|  7   | 时间推移 |              SAM               |
+|  8  | 语音驱动 |           [SadTalker](https://github.com/OpenTalker/SadTalker)            |
+|  9  | 角色换装 |           [VITION-HD](https://github.com/shadow2496/VITON-HD)            |
 
 ## Citation 😸😸😸
 If you find our paper useful, please cite our work as:
