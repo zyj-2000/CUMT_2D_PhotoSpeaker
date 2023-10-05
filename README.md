@@ -7,7 +7,7 @@ If you have any problems during the test, please email to aokzyj@126.com/zyj2000
 ![avatar](framework_v1.png)
 
 ---------------------
-![DockerHub](https://img.shields.io/badge/Docker-v4.0-blue.svg) ![Ubuntu](https://img.shields.io/badge/Ubuntu-18.04-green.svg)
+![DockerHub](https://img.shields.io/badge/Docker-v4-blue.svg) ![Ubuntu](https://img.shields.io/badge/Ubuntu-18.04-green.svg)
 #### 0. Requirements and Recommends 📑
 
 Machine with GPU and installed with Docker (If you have problems when installing the Docker, please check the following link: [Install Docker Engine](https://docs.docker.com/engine/install/#desktop).)  
