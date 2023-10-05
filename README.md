@@ -159,9 +159,9 @@ requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetErro
 It means the GPU's hashrate is too higher, please make it lower by using the command:
 
 ```
-# GLM下载地址
+# The download link of GLM
 https://huggingface.co/THUDM/chatglm-6b/tree/main
-下载全部内容上传至
+# load the downloaded model to container
 sudo docker cp <folder/to/models/in/host> test5:/code
 ```
 
@@ -169,15 +169,15 @@ sudo docker cp <folder/to/models/in/host> test5:/code
 
 | No. |  Module  |         Related Works          |
 | :--: | :------: | :----------------------------: |
-|  1   | 交互模块 |           [ChatGLM 6B](https://github.com/THUDM/ChatGLM-6B)          |
-|  2   | 文语转换 |            espeaker            |
-|  3   | 语音克隆 |          [Mockingbird](https://github.com/babysor/MockingBird)           |
-|  4   | 超分辨率 |           [BasicVSR++](https://github.com/ckkelvinchan/BasicVSR_PlusPlus)           |
-|  5   | 质量评价 |              [VSFA](https://github.com/lidq92/VSFA)              |
-|  6   | 卡通效果 |            [DCT-Net](https://github.com/menyifang/DCT-Net)             |
-|  7   | 时间推移 |              [SAM](https://github.com/yuval-alaluf/SAM)               |
-|  8  | 语音驱动 |           [SadTalker](https://github.com/OpenTalker/SadTalker)            |
-|  9  | 角色换装 |           [VITION-HD](https://github.com/shadow2496/VITON-HD)            |
+|  1   | Language Model |           [ChatGLM 6B](https://github.com/THUDM/ChatGLM-6B)          |
+|  2   | Text2Speech Conversion |            espeaker            |
+|  3   | Speech Clone |          [Mockingbird](https://github.com/babysor/MockingBird)           |
+|  4   | Super Resolution |           [BasicVSR++](https://github.com/ckkelvinchan/BasicVSR_PlusPlus)           |
+|  5   | Quality Assessment |              [VSFA](https://github.com/lidq92/VSFA)              |
+|  6   | Style Transfer |            [DCT-Net](https://github.com/menyifang/DCT-Net)             |
+|  7   | Age Transformer |              [SAM](https://github.com/yuval-alaluf/SAM)               |
+|  8  | Person Independent Driver |           [SadTalker](https://github.com/OpenTalker/SadTalker)            |
+|  9  | Cloth Modification |           [VITION-HD](https://github.com/shadow2496/VITON-HD)            |
 
 ## License
 This work is made available under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). You can use, redistribute, and adapt the material for non-commercial purposes, as long as you give appropriate credit by citing our paper and indicate any changes that you've made. Besides, for details, follow the original LICENSE of each work listed above.
