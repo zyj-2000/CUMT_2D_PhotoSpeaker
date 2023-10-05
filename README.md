@@ -180,7 +180,7 @@ sudo docker cp <folder/to/models/in/host> test5:/code
 |  9  | 角色换装 |           [VITION-HD](https://github.com/shadow2496/VITON-HD)            |
 
 ## License
-All material is made available under Creative Commons BY-NC 4.0. You can use, redistribute, and adapt the material for non-commercial purposes, as long as you give appropriate credit by citing our paper and indicate any changes that you've made.
+All material is made available under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). You can use, redistribute, and adapt the material for non-commercial purposes, as long as you give appropriate credit by citing our paper and indicate any changes that you've made.
 
 ## Citation 😸😸😸
 If you find our paper useful, please cite our work as:
