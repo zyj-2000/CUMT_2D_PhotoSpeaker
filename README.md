@@ -165,9 +165,9 @@ https://huggingface.co/THUDM/chatglm-6b/tree/main
 sudo docker cp <folder/to/models/in/host> test5:/code
 ```
 
-## Citations 🌟🌟🌟
+## Related Works 🌟🌟🌟
 
-| 序号 |  Module  |         Related Works          |
+| No. |  Module  |         Related Works          |
 | :--: | :------: | :----------------------------: |
 |  1   | 交互模块 |           [ChatGLM 6B](https://github.com/THUDM/ChatGLM-6B)          |
 |  2   | 文语转换 |            espeaker            |
