@@ -31,9 +31,8 @@ sudo docker pull zyj2000/cumt_photo_speaker:v4
 2. Baidu yunpan
 
    The Baidu yunpan LINK:
-
-   https://pan.baidu.com/s/1tiFHlNbe4GAWU7K_IeD7qw 
-   code：cumt 
+   
+      https://pan.baidu.com/s/1Vz7Ue2wNU5SG8hTSNQhkbw (code:cumt) 
 
 #### 2. Validate the MD5 for the image
 
