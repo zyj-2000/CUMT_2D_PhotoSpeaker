@@ -177,7 +177,7 @@ sudo docker cp <folder/to/models/in/host> test5:/code
 |  4   | 超分辨率 |           [BasicVSR++](https://github.com/ckkelvinchan/BasicVSR_PlusPlus)           |
 |  5   | 质量评价 |              [VSFA](https://github.com/lidq92/VSFA)              |
 |  6   | 卡通效果 |            [DCT-Net](https://github.com/menyifang/DCT-Net)             |
-|  7   | 时间推移 |              SAM               |
+|  7   | 时间推移 |              [SAM](https://github.com/yuval-alaluf/SAM)               |
 |  8  | 语音驱动 |           [SadTalker](https://github.com/OpenTalker/SadTalker)            |
 |  9  | 角色换装 |           [VITION-HD](https://github.com/shadow2496/VITON-HD)            |
 
