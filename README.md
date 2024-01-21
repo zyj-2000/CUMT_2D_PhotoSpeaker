@@ -182,13 +182,11 @@ This work is made available under [Creative Commons BY-NC 4.0](https://creativec
 ## Citation 😸😸😸
 If you find our paper useful, please cite our work as:
 ```
-@misc{zhou2023implementation,
-      title={An Implementation of Multimodal Fusion System for Intelligent Digital Human Generation}, 
-      author={Yingjie Zhou and Yaodong Chen and Kaiyue Bi and Lian Xiong and Hui Liu},
-      year={2023},
-      eprint={2310.20251},
-      archivePrefix={arXiv},
-      primaryClass={cs.MM}
+@article{zhou2023implementation,
+  title={An Implementation of Multimodal Fusion System for Intelligent Digital Human Generation},
+  author={Zhou, Yingjie and Chen, Yaodong and Bi, Kaiyue and Xiong, Lian and Liu, Hui},
+  journal={arXiv preprint arXiv:2310.20251},
+  year={2023}
 }
 ```
 
